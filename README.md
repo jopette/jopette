@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm currently learning web development
-
 <!--
 **jopette/jopette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
